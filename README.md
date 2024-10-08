@@ -2,9 +2,9 @@
 
 Template này được sử dụng cho fullstack Next.js/Nest.js
 
-### Môi trường chạy dự án: Node.js v20.14.0
+### Môi trường chạy dự án: Node.js v20.11.1
 
-https://nodejs.org/download/release/v20.14.0/
+https://nodejs.org/download/release/v20.11.1/
 
 ===
 
